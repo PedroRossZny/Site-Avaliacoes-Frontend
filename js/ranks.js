@@ -43,7 +43,6 @@ const places = [
                   -----------------------------------------\n
                   -----------------------------------------`},
 
-  // ✅ adicionado para casar com carrossel e páginas de comentários
   { id: 7, name: "Estabelecimento 7", image: "assets/estab 7.jpeg",
     description: `-----------------------------------------\n
                   -----------------------------------------\n
@@ -77,7 +76,7 @@ if (!container || !searchInput) {
   }
 
   function makeStars(avg) {
-  const ASSETS = 'assets/'; // <- base estável em qualquer subpasta
+  const ASSETS = 'assets/'; // relative to the HTML page that loads this script
 
   return Array.from({ length: 5 }, (_, i) => {
     const frac = Math.min(Math.max(avg - i, 0), 1);
