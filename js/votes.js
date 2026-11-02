@@ -7,7 +7,6 @@ const establishments = [
   { id: 4, name: "Estabelecimento 4", images: ["assets/estab 1.jpeg","assets/estab 2.jpeg"] },
   { id: 5, name: "Estabelecimento 5", images: ["assets/estab 1.jpeg","assets/estab 2.jpeg"] },
   { id: 6, name: "Estabelecimento 6", images: ["assets/estab 1.jpeg","assets/estab 2.jpeg","assets/estab 3.jpeg"] },
-  // ✅ adicionado para casar com o carrossel e a página estabelecimento7
   { id: 7, name: "Estabelecimento 7", images: ["assets/estab 1.jpeg","assets/estab 2.jpeg"] },
 ];
 
