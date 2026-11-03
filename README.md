@@ -12,6 +12,10 @@ The interface is in Brazilian Portuguese.
 ![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-hosting-000000?logo=vercel&logoColor=white)
 
+## Demo video
+
+[![Avalia Aqui demo on YouTube](https://img.youtube.com/vi/7NlSEaWKleI/hqdefault.jpg)](https://youtu.be/7NlSEaWKleI)
+
 ## Screenshots
 
 Captured from a local copy of the site with sample votes and comments.
